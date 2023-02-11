@@ -1,6 +1,6 @@
-<img width="300px"  src="https://count.getloli.com/get/@FESSXX" alt="gelbooru" />
-
+<img width="300px" src="https://count.getloli.com/get/@FESSXX?theme=gelbooru"></img>
+<!-- ![:Augenestern-creator](https://count.getloli.com/get/@:HibiKier?theme=gelbooru) -->
 <div align="center">
-  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=FESSXX&show_icons=true&count_private=true&text_color=70bed9&icon_color=fff&&hide=prs&bg_color=192133&theme=default_repocard"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FESSXX&layout=compact&langs_count=6&text_color=70bed9&icon_color=fff&bg_color=192133&theme=default_repocard" />
+  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=FESSXX&include_all_commits=true&count_private-true&custom_title=HibiKier%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FESSXX&layout=compact&langs_count=6&text_color=70bed9&icon_color=fff&title_color=efb752&bg_color=192133&theme=graywhite" />
 </div>
