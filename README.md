@@ -1,7 +1,7 @@
 # Hi there
 
 <div align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=FESSXX&include_all_commits=true&count_private=true&show_icons=true" height="150"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=FESSXX&count_private=true&show_icons=true" height="150"/>
 </div>
 <div align="center">
   <img src="https://count.getloli.com/get/@FESSXX?theme=booru-smtg" height="150" width="400"></img>
